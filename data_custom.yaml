@@ -1,0 +1,6 @@
+train: C:\Users\Tanusha\ML\objectdetection\yolov8_64bit\train
+val: C:\Users\Tanusha\ML\objectdetection\yolov8_64bit\val
+
+nc: 2
+
+names: ["hat","jacket"]
