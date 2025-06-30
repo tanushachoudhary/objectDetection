@@ -3,6 +3,9 @@
 This project uses **YOLOv8** to detect construction workers and check if they’re wearing required safety gear like **helmets** and **safety vests** in real-time video feeds or images.
 
 
+https://github.com/user-attachments/assets/91c70ba2-9095-48e4-ba66-2b9721c25a7d
+
+
 ## 🏋️‍♂️ How to Train a Custom Model
 
 1. Prepare your dataset in YOLO format:
